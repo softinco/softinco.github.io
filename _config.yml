@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Softin.co
+tagline:          'Developers blog'
+description:      'Here is a place for short website description or disclaimer text to be written. Follow us on <a href="https://twitter.com/softinco" target="_blank">Twitter</a>.'
+url:              http://softin.co
+
+author:
+  name:           'Softin.co Team'
+  url:            https://twitter.com/softinco
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/softinco/softinco.github.io

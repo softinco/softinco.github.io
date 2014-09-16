@@ -1,4 +1,3 @@
-softinco.github.io
-==================
+# Softin.co Games Blog
 
-Softin.co blog
+Powered by [Jekyll](http://jekyllrb.com) and [GitHub Pages](http://pages.github.com).
