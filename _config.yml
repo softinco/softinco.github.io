@@ -1,24 +1,25 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      rouge
+markdown:          redcarpet
+highlighter:       rouge
 
 # Permalinks
-permalink:        pretty
+permalink:         pretty
 
 # Setup
-title:            'Softin.co'
-tagline:          'A Tiny Software Company'
-description:      ''
-url:              http://softin.co
+title:             'Softin.co'
+tagline:           'A Tiny Software Company'
+description:       ''
+url:               http://softin.co
 
 author:
-  name:           'Softin.co Team'
-  url:            https://twitter.com/softinco
+  name:            'Softin.co Team'
+  url:             https://twitter.com/softinco
 
-paginate:         5
+paginate:          5
+excerpt_separator: ''
 
 # Custom vars
-version:          1.0.0
+version:           1.0.0
 
 github:
-  repo:           https://github.com/softinco/softinco.github.io
+  repo:            https://github.com/softinco/softinco.github.io
