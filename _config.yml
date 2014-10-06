@@ -1,25 +1,28 @@
 # Dependencies
-markdown:          redcarpet
-highlighter:       rouge
+markdown:            redcarpet
+highlighter:         pygments
 
 # Permalinks
-permalink:         pretty
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
 # Setup
-title:             'Softin.co'
-tagline:           'A Tiny Software Company'
-description:       ''
-url:               http://softin.co
+title:               'Softin.co'
+tagline:             'A Tiny Software Company'
+description:         ''
+url:                 http://softin.co
 
+baseurl:             /
+paginate:            5
+excerpt_separator:   ''
+
+# About/contact
 author:
-  name:            'Softin.co Team'
-  url:             https://twitter.com/softinco
-
-paginate:          5
-excerpt_separator: ''
+  name:              'Softin.co Team'
+  url:               https://twitter.com/softinco
+  email:             darkdeny@gmail.com
 
 # Custom vars
-version:           1.0.0
-
-github:
-  repo:            https://github.com/softinco/softinco.github.io
+version:             1.0.0
