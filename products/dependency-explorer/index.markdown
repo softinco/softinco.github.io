@@ -28,5 +28,4 @@ If you are not sure if the tool is useful for you, then you can try it for free 
 
 Missing a feature? Let us know what this tool needs to have!
 
-- [Download](http://media.softin.co/DependencyExplorer-v1.0.0.35.zip)
-- [Buy a license](http://sites.fastspring.com/softtiny/product/dependencyexplorer)
+- [Download](https://github.com/DarkDeny/DependencyExplorer/releases/download/v1.0.1/DependencyExplorer-v1.0.1.zip)
