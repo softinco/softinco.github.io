@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Dependency Explorer 1.0 released"
+title: 'Dependency Explorer 1.0 released'
 date: 2013-12-06 16:02
 comments: true
-categories: 
+categories: ''
 ---
 
 We are proudly announcing that our first product - [Dependency Explorer](/products/dependency-explorer) has reached v1.0 and today we are releasing it to the world!

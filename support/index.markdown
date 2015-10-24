@@ -1,8 +1,6 @@
 ---
 layout: page
-title: "Support"
-date: 2013-12-04 19:27
-comments: true
+title: "User Feedback and Support"
 ---
 
-Send us your questions and feature requests: [support@softtiny.com](mailto:support@softtiny.com).
+Be sure to let us know if you need any assistance. Send us your questions and feature requests using <a href="#" id="uservoice_trigger">contact form</a> or email: [support@softin.co](mailto:support@softin.co)

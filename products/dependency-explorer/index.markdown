@@ -28,9 +28,4 @@ If you are not sure if the tool is useful for you, then you can try it for free 
 
 Missing a feature? Let us know what this tool needs to have!
 
-<p class="button-block">
-  <a class="btn btn-lg btn-success" href="/downloads/DependencyExplorer-v1.0.0.35.zip" role="button">Download</a>
-  <a class="btn btn-lg btn-primary" href="http://sites.fastspring.com/softtiny/product/dependencyexplorer" role="button">Buy a license</a>
-</p>
-
-{% if site.depexp_version %}Current version: {{ site.depexp_version }}{% endif %}
+- [Download](https://github.com/DarkDeny/DependencyExplorer/releases/download/v1.0.1/DependencyExplorer-v1.0.1.zip)
